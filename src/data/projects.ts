@@ -21,7 +21,7 @@ export const projects: Project[] = [
     title: 'BestRoomsOnly',
     tagline: 'Full-stack hotel booking platform with real-time availability',
     category: 'backend',
-    tags: ['Booking', 'FastAPI', 'AIOSELL', 'PostgreSQL', 'FastAPI', 'PMS'],
+    tags: ['Booking', '.NET Web API', 'AIOSELL', 'PostgreSQL', 'PMS'],
     problem:
       'Hotels needed a centralized, scalable booking engine to manage room availability, pricing, and reservations across multiple properties in real-time, while supporting multiple payment gateways and OTA integrations.',
     architecture:
@@ -33,7 +33,7 @@ export const projects: Project[] = [
       'Integrated payment gateway (Razorpay) with webhook handling',
       'Deployed on Hostinger with CI/CD via GitHub Actions'
     ],
-    tech: ['Google’s Antigravity','FastAPI', 'PostgreSQL', 'JWT', 'RBAC', 'AIOSELL', 'PMS', 'Next Js'],
+    tech: ['.NET Web API', 'Google’s Antigravity', 'PostgreSQL', 'JWT', 'RBAC', 'AIOSELL', 'PMS', 'Next Js'],
     impact: [
       { label: 'Monthly Bookings', value: '10,000+' },
       { label: 'API Endpoints', value: '100+' },
