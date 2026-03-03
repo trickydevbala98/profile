@@ -30,7 +30,7 @@ export const experiences: Experience[] = [
       'Built Azure Functions for background processing reducing manual intervention by 80%',
       'Led Docker containerization strategy reducing deployment time by 60%',
     ],
-    tech: ['ASP.NET Core 8', 'Entity Framework', 'Azure', 'Docker', 'MySQL', 'PostgreSQL', 'JWT', 'React', 'Next.js', 'FastAPI', 'UiPath', 'RPA', 'AI'],
+    tech: ['ASP.NET Core 8', 'Entity Framework', 'Azure', 'Docker', 'MySQL', 'PostgreSQL', 'JWT', 'React', 'Next.js', 'UiPath', 'RPA', 'AI'],
   },
   {
     id: 'maxpro',
@@ -45,6 +45,6 @@ export const experiences: Experience[] = [
       'Built SWMS HRMS platform managing 5000+ employee records with real-time payroll processing',
       'Designed secure RESTful APIs following OWASP best practices',
     ],
-    tech: ['ASP.NET Core', 'SQL Server', 'ADO.NET','Quartz.NET'],
+    tech: ['ASP.NET Core', 'SQL Server', 'Web API', 'ADO.NET','ASP.NET MVC'],
   },
 ];
